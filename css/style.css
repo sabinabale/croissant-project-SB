@@ -2,6 +2,7 @@ body {
   text-align: center;
   line-height: 2;
   font-size: 18px;
+  background: rgba(235, 204, 164, 0.377);
 }
 
 .answer {
